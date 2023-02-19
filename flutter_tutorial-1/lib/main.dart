@@ -1,6 +1,9 @@
+// importing fluutter package
 import 'package:flutter/material.dart';
 
+// main function
 void main() {
+  // runApp function to start our app
   runApp(
       // MaterialApp WIdget
       MaterialApp(
