@@ -18,10 +18,10 @@ void main() {
 
 // You can change the align widget with a center widget to make the text in center as well
 /*
-Center Widget
+Center Widget:
 
-Center(
-  child: Text('I am in the center now :)')
-)
+  Center(
+   child: Text('I am in the center now :)')
+  )
 
  */
